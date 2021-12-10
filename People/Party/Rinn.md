@@ -1,0 +1,1 @@
+[[Sykane]] seems to talk to Rinn but I'm not currently aware of this or who Sykane even is. 

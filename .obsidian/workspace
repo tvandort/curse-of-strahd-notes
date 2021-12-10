@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "1a9ea2fcd1e84db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cba5375dd25ccc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Places/Argynvostholt.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6951015daacd7bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a58fb97d39dcca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d87e0bbab0ad4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "16e52df25a75f377",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#spiders",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c63a29d83d408d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a4a5eb7d9c3650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "602dc1efcc4f8d07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Places/Argynvostholt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8cba5375dd25ccc8",
+  "lastOpenFiles": [
+    "Places/Argynvostholt.md",
+    "Sessions/47.md",
+    "People/Party/Rinn.md",
+    "People/R.md",
+    "World.md",
+    "silver dragon.md",
+    "Places.md",
+    "test.md",
+    "Things/Cock Shaped Table.md"
+  ]
+}
