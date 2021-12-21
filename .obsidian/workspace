@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8cba5375dd25ccc8",
+        "id": "4757dad319c7c70a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Places/Argynvostholt.md",
+            "file": "Things/Holy Symbol of Ravenkind.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spiders",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Argynvostholt.md",
+                "file": "Things/Holy Symbol of Ravenkind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8cba5375dd25ccc8",
+  "active": "4757dad319c7c70a",
   "lastOpenFiles": [
+    "Things/Holy Symbol of Ravenkind.md",
+    "Sessions/49.md",
+    "People/Vladimir Horngaard.md",
+    "Sessions/48.md",
+    "People/Kolyan Indirovich.md",
+    "People/Morning Lord.md",
+    "People/Esmerelda.md",
     "Places/Argynvostholt.md",
-    "Sessions/47.md",
-    "People/Party/Rinn.md",
-    "People/R.md",
-    "World.md",
-    "silver dragon.md",
-    "Places.md",
-    "test.md",
-    "Things/Cock Shaped Table.md"
+    "People/Argynvast.md",
+    "Sessions/47.md"
   ]
 }

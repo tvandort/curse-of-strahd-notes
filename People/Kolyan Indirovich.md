@@ -1,0 +1,1 @@
+[[Ireena]]'s father former burgomaster of Barovia the town.

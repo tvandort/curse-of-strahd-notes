@@ -1,0 +1,1 @@
+Silver Dragon that lead the order of the Silver Dragon's. Might have been an adherent of the [[Morning Lord]].
