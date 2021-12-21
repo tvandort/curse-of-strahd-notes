@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Things/Holy Symbol of Ravenkind.md",
+            "file": "People/Party/Rinn.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things/Holy Symbol of Ravenkind.md",
+                "file": "People/Party/Rinn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4757dad319c7c70a",
   "lastOpenFiles": [
-    "Things/Holy Symbol of Ravenkind.md",
+    "People/Party/Rinn.md",
     "Sessions/49.md",
-    "People/Vladimir Horngaard.md",
+    "Things/Holy Symbol of Ravenkind.md",
+    "People/Sir Godfrey Gwilym.md",
     "Sessions/48.md",
-    "People/Kolyan Indirovich.md",
-    "People/Morning Lord.md",
-    "People/Esmerelda.md",
-    "Places/Argynvostholt.md",
+    "Sessions/47.md",
     "People/Argynvast.md",
-    "Sessions/47.md"
+    "People/Vladimir Horngaard.md",
+    "People/Kolyan Indirovich.md",
+    "People/Morning Lord.md"
   ]
 }
