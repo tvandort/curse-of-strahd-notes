@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/Party/Rinn.md",
-            "mode": "source"
+            "file": "Sessions/51.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Party/Rinn.md",
+                "file": "Sessions/51.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "4757dad319c7c70a",
   "lastOpenFiles": [
-    "People/Party/Rinn.md",
-    "Sessions/49.md",
-    "Things/Holy Symbol of Ravenkind.md",
-    "People/Sir Godfrey Gwilym.md",
+    "Sessions/51.md",
+    "Things/Dagger of Venom.md",
+    "Stats.md",
+    "Sessions/6.md",
+    "Sessions/50.md",
     "Sessions/48.md",
-    "Sessions/47.md",
-    "People/Argynvast.md",
-    "People/Vladimir Horngaard.md",
-    "People/Kolyan Indirovich.md",
-    "People/Morning Lord.md"
+    "People/Party/Korvash.md",
+    "Things/Holy Symbol of Ravenkind.md",
+    "People/Esmerelda.md",
+    "Session Images/Pasted image 20220106200326.png"
   ]
 }
