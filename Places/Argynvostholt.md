@@ -9,4 +9,4 @@ Silver dragon lead this group.
 
 Torn tapestry in the main room. There are marble busts along the tapestry. Different humanoids. Tapestry looks like a massive silver dragon, it is torn.
 
-Silver Dragon that lead this place seems to be able to transform. The silver dragon's name is [[Argynvast]].
+Silver Dragon that lead this place seems to be able to transform. The silver dragon's name is [[Argynvost]].

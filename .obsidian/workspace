@@ -11,6 +11,7 @@
           "state": {
             "file": "Sessions/51.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Argynvast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,14 +91,14 @@
   "active": "4757dad319c7c70a",
   "lastOpenFiles": [
     "Sessions/51.md",
+    "People/Argynvost.md",
+    "Sessions/48.md",
+    "Session Images/Pasted image 20220106200326.png",
     "Things/Dagger of Venom.md",
     "Stats.md",
     "Sessions/6.md",
     "Sessions/50.md",
-    "Sessions/48.md",
     "People/Party/Korvash.md",
-    "Things/Holy Symbol of Ravenkind.md",
-    "People/Esmerelda.md",
-    "Session Images/Pasted image 20220106200326.png"
+    "Things/Holy Symbol of Ravenkind.md"
   ]
 }
