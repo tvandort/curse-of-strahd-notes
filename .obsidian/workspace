@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/51.md",
+            "file": "Sessions/53.md",
             "mode": "source",
-            "backlinks": false,
             "source": false
           }
         }
@@ -41,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Argynvast",
+                "query": "firaxel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/51.md",
+                "file": "Sessions/53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +77,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d71a75ca9ff9df8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -90,15 +100,15 @@
   },
   "active": "4757dad319c7c70a",
   "lastOpenFiles": [
-    "Sessions/51.md",
-    "People/Argynvost.md",
-    "Sessions/48.md",
-    "Session Images/Pasted image 20220106200326.png",
-    "Things/Dagger of Venom.md",
-    "Stats.md",
-    "Sessions/6.md",
+    "Sessions/53.md",
     "Sessions/50.md",
-    "People/Party/Korvash.md",
-    "Things/Holy Symbol of Ravenkind.md"
+    "Sessions/51.md",
+    "Sessions/52.md",
+    "Places/Argynvostholt.md",
+    "Places/Castle Ravenloft.md",
+    "Things/Dagger of Venom.md",
+    "Things/Holy Symbol of Ravenkind.md",
+    "Stats.md",
+    "World.md"
   ]
 }

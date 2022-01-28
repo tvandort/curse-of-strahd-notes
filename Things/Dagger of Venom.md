@@ -1,5 +1,4 @@
-![Pasted image 20220113211702.png](app://local/D%3A%5CObsidian%5CCurse%20of%20Strahd%5CPasted%20image%2020220113211702.png?1642126622249)
-
+![[Pasted image 20220113211702.png]]
 
 https://www.dndbeyond.com/magic-items/dagger-of-venom
 
