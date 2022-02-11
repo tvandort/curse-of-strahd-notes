@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4757dad319c7c70a",
+        "id": "20271259e9847c0e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/53.md",
+            "file": "Sessions/54 - The Wedding pt. 3.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/53.md",
+                "file": "Sessions/54 - The Wedding pt. 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4757dad319c7c70a",
+  "active": "20271259e9847c0e",
   "lastOpenFiles": [
-    "Sessions/53.md",
-    "Sessions/50.md",
-    "Sessions/51.md",
-    "Sessions/52.md",
-    "Places/Argynvostholt.md",
-    "Places/Castle Ravenloft.md",
+    "Sessions/54 - The Wedding pt. 3.md",
+    "Sessions/53 - The Wedding pt. 2.md",
+    "Sessions/52 - The Wedding pt. 1.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Things/Dagger of Venom.md",
     "Things/Holy Symbol of Ravenkind.md",
-    "Stats.md",
-    "World.md"
+    "People/Vladimir Horngaard.md",
+    "Sessions/50.md",
+    "Sessions/51.md"
   ]
 }
