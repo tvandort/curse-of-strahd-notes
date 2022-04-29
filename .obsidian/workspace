@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/56 - The Wedding pt. 5 Whoops.md",
+            "file": "Sessions/61.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "firaxel",
+                "query": "stained",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/56 - The Wedding pt. 5 Whoops.md",
+                "file": "Sessions/61.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "20271259e9847c0e",
   "lastOpenFiles": [
+    "Sessions/61.md",
     "Sessions/56 - The Wedding pt. 5 Whoops.md",
-    "Sessions/55 - The Wedding pt. 4 Mirrors.md",
-    "Sessions/54 - The Wedding pt. 3.md",
-    "Sessions/52 - The Wedding pt. 1.md",
-    "Sessions/53 - The Wedding pt. 2.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Things/Dagger of Venom.md",
-    "Things/Holy Symbol of Ravenkind.md",
-    "People/Vladimir Horngaard.md"
+    "Sessions/48.md",
+    "Sessions/49.md",
+    "Sessions/50.md",
+    "Sessions/51.md",
+    "Sessions/47.md",
+    "Sessions/60.md",
+    "People/Argynvost.md",
+    "People/Sir Godfrey Gwilym.md"
   ]
 }
