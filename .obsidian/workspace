@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/61.md",
+            "file": "Sessions/63.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stained",
+                "query": "emo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/61.md",
+                "file": "Sessions/63.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "20271259e9847c0e",
   "lastOpenFiles": [
+    "Sessions/63.md",
+    "Sessions/62.md",
+    "Sessions/1.md",
+    "Strahd's Awful Simping Journal.md",
     "Sessions/61.md",
-    "Sessions/56 - The Wedding pt. 5 Whoops.md",
-    "Sessions/48.md",
-    "Sessions/49.md",
-    "Sessions/50.md",
+    "Sessions/4.md",
+    "Sessions/53 - The Wedding pt. 2.md",
     "Sessions/51.md",
-    "Sessions/47.md",
-    "Sessions/60.md",
-    "People/Argynvost.md",
-    "People/Sir Godfrey Gwilym.md"
+    "Sessions/56 - The Wedding pt. 5 Whoops.md",
+    "Sessions/48.md"
   ]
 }
