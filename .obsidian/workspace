@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/63.md",
+            "file": "Sessions/3.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emo",
+                "query": "holy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/63.md",
+                "file": "Sessions/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +101,15 @@
   },
   "active": "20271259e9847c0e",
   "lastOpenFiles": [
+    "Sessions/3.md",
+    "Sessions/1.md",
+    "Sessions/2.md",
+    "People/Kolyan Indirovich.md",
+    "Sessions/65.md",
+    "Sessions/64.md",
     "Sessions/63.md",
     "Sessions/62.md",
-    "Sessions/1.md",
     "Strahd's Awful Simping Journal.md",
-    "Sessions/61.md",
-    "Sessions/4.md",
-    "Sessions/53 - The Wedding pt. 2.md",
-    "Sessions/51.md",
-    "Sessions/56 - The Wedding pt. 5 Whoops.md",
-    "Sessions/48.md"
+    "Sessions/61.md"
   ]
 }
