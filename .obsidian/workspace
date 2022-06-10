@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math.md",
+            "file": "Sessions/66.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math.md",
+                "file": "Sessions/66.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,8 @@
   },
   "active": "20271259e9847c0e",
   "lastOpenFiles": [
-    "Math.md",
     "Sessions/66.md",
+    "Math.md",
     "Sessions/NEXT.md",
     "Sessions/65.md",
     "Sessions/64.md",
