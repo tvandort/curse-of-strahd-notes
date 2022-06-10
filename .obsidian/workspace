@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/3.md",
+            "file": "Math.md",
             "mode": "source",
             "source": false
           }
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250
   },
   "right": {
     "id": "c63a29d83d408d96",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/3.md",
+                "file": "Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +100,15 @@
   },
   "active": "20271259e9847c0e",
   "lastOpenFiles": [
-    "Sessions/3.md",
-    "Sessions/1.md",
-    "Sessions/2.md",
-    "People/Kolyan Indirovich.md",
+    "Math.md",
+    "Sessions/66.md",
+    "Sessions/NEXT.md",
     "Sessions/65.md",
     "Sessions/64.md",
-    "Sessions/63.md",
-    "Sessions/62.md",
-    "Strahd's Awful Simping Journal.md",
-    "Sessions/61.md"
+    "Stats.md",
+    "Session Images/Pasted image 20220324210619.png",
+    "Session Images/Pasted image 20220224200755.png",
+    "Session Images/Pasted image 20220210214712.png",
+    "Session Images/Pasted image 20220127221346.png"
   ]
 }
