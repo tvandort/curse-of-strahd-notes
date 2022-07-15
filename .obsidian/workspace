@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/66.md",
+            "file": "Stats.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "holy",
+                "query": "dimitri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/66.md",
+                "file": "Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "20271259e9847c0e",
   "lastOpenFiles": [
-    "Sessions/66.md",
-    "Math.md",
-    "Sessions/NEXT.md",
+    "Sessions/69.md",
+    "Sessions/68.md",
+    "Sessions/62.md",
+    "Sessions/63.md",
     "Sessions/65.md",
     "Sessions/64.md",
-    "Stats.md",
-    "Session Images/Pasted image 20220324210619.png",
-    "Session Images/Pasted image 20220224200755.png",
-    "Session Images/Pasted image 20220210214712.png",
-    "Session Images/Pasted image 20220127221346.png"
+    "Sessions/67.md",
+    "Math.md",
+    "Sessions/56 - The Wedding pt. 5 Whoops.md",
+    "Strahd's Awful Simping Journal.md"
   ]
 }
